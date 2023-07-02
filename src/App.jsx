@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="bg-lime-100 h-[700px]">
-      <header className="bg-lime-50 py-6">
+      <header className="bg-lime-50 py-6 px-20">
         <nav className="h-full">
           <div className="container mx-auto flex justify-between items-center">
             <h3 className="text-2xl font-bold -ml-12"><span className="text-emerald-500">Gabi</span> Notes</h3>
